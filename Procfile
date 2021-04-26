@@ -1,1 +1,1 @@
-web: gunicorn app:ev-bmw
+web: gunicorn ev-bmw:ev-bmw
