@@ -1,1 +1,1 @@
-web: gunicorn ev-bmw:ev-bmw
+web: gunicorn setup:app
